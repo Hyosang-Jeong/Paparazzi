@@ -1,4 +1,5 @@
 # Paparazzi
+![image](https://github.com/Hyosang-Jeong/Paparazzi/assets/70678504/dd6e614f-d99d-4ec2-acc0-ed45186ccac7)
 
 # Team
 G157
